@@ -1,0 +1,21 @@
+  body {
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  div {
+    font-family: 'Libre Baskerville', serif;
+    justify-content: center;
+    max-width: 100%;
+    margin: 8%; /* Center the div horizontally */
+  }
+  img {
+    border: 3px solid white;
+    width: 100%;
+    max-width: 400px; /* Optional: limit the maximum width of the image */
+  }
+  h2 {
+    text-transform: uppercase;
+    justify-content: center;
+    width: 100%;
+  }
